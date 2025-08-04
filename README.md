@@ -2,6 +2,9 @@
 
 A real-time multiplayer Rock Paper Scissors game built with Node.js, Express, and Socket.IO.
 
+## 🎮 Play Now
+**[Click here to play the game!](https://shreedivya19.github.io/multiplayer-rock-paper-scissor/)**
+
 ## ✨ Features
 
 - Real-time multiplayer gameplay
