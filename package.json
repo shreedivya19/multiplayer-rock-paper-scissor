@@ -32,10 +32,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shreedivya19/multiplayer-rock-paper-scissors.git"
+    "url": "git+https://github.com/shreedivya19/multiplayer-rock-paper-scissor.git"
   },
   "bugs": {
-    "url": "https://github.com/shreedivya19/multiplayer-rock-paper-scissors/issues"
+    "url": "https://github.com/shreedivya19/multiplayer-rock-paper-scissor/issues"
   },
-  "homepage": "https://github.com/shreedivya19/multiplayer-rock-paper-scissors#readme"
+  "homepage": "https://github.com/shreedivya19/multiplayer-rock-paper-scissor#readme"
 }
