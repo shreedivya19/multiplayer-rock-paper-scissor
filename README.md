@@ -18,5 +18,5 @@ A real-time multiplayer Rock Paper Scissors game built with Node.js, Express, an
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shreedivya19/multiplayer-rock-paper-scissors.git
+   git clone https://github.com/shreedivya19/multiplayer-rock-paper-scissor.git
    cd multiplayer-rock-paper-scissors
